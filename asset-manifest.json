@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ahsvp/Todo.git/static/css/main.3152f583.css",
-    "main.js": "/ahsvp/Todo.git/static/js/main.ec7cdd8d.js",
-    "index.html": "/ahsvp/Todo.git/index.html",
-    "main.3152f583.css.map": "/ahsvp/Todo.git/static/css/main.3152f583.css.map",
-    "main.ec7cdd8d.js.map": "/ahsvp/Todo.git/static/js/main.ec7cdd8d.js.map"
+    "main.css": "/Todo/static/css/main.3152f583.css",
+    "main.js": "/Todo/static/js/main.ec7cdd8d.js",
+    "index.html": "/Todo/index.html",
+    "main.3152f583.css.map": "/Todo/static/css/main.3152f583.css.map",
+    "main.ec7cdd8d.js.map": "/Todo/static/js/main.ec7cdd8d.js.map"
   },
   "entrypoints": [
     "static/css/main.3152f583.css",
