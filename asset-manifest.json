@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ahsvp/Todo.git/static/css/main.3152f583.css",
+    "main.js": "/ahsvp/Todo.git/static/js/main.ec7cdd8d.js",
+    "index.html": "/ahsvp/Todo.git/index.html",
+    "main.3152f583.css.map": "/ahsvp/Todo.git/static/css/main.3152f583.css.map",
+    "main.ec7cdd8d.js.map": "/ahsvp/Todo.git/static/js/main.ec7cdd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3152f583.css",
+    "static/js/main.ec7cdd8d.js"
+  ]
+}
